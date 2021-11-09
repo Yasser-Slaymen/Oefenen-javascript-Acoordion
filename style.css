@@ -1,0 +1,16 @@
+*{
+    background-color: aqua;
+    margin:12px, auto;
+}
+.title{
+    padding: 5px;
+    background-color: rgb(202, 181, 181);
+    border-top:2px solid red ;
+    border-image:inherit ;
+    margin-bottom:0;
+}
+.content{
+    margin-top:0;
+    font-size: 20px;
+    background-color: khaki;
+}
